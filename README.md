@@ -2,6 +2,7 @@
 ## This is the official link github of my group project.
 ### :busts_in_silhouette:Student name: Nguyen Minh Tri - 20110422 
 ####       Nguyen Thanh Toan - 20110012
+# Link VIDEO DEMO: https://www.youtube.com/watch?v=LVzXtcbLPlU&t=431s
 # INTRODUCTION
 ## Today, with the rapid development of information technology, it has become an indispensable part of human life. Information technology is widely applied in all fields of social life. With the trend of development and integration of the country, investment in IT is very necessary and important. The application of computer software in the fields helps to improve the efficiency and quality of work, in addition to saving time and reducing human fatigue. 
 ## :white_check_mark:The actual needs of society require people to always be active and creative to create products to meet the increasingly diverse needs of society. Even in the field of parking at schools, residential areas, shopping centers... people have been using software for management for a long time. form, organization, management and towards a scientific system. Applying IT and automation in the system to operate and manage to improve the quality of operations, service, simplify management, search, import and export vehicles in and out of the station... is what this topic is about.
