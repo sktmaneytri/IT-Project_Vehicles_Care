@@ -1,5 +1,5 @@
 # IT-Project_Vehicles_Care
-## This is the link github official of my group project.
+## This is the official link github of my group project.
 ### :busts_in_silhouette:Student name: Nguyen Minh Tri - 20110422 
 ####       Nguyen Thanh Toan - 20110012
 # INTRODUCTION
